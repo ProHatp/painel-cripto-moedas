@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/painel-cripto-moedas/static/css/main.b2d93f13.chunk.css",
+    "main.js": "/painel-cripto-moedas/static/js/main.64d94720.chunk.js",
+    "main.js.map": "/painel-cripto-moedas/static/js/main.64d94720.chunk.js.map",
+    "runtime-main.js": "/painel-cripto-moedas/static/js/runtime-main.aae5c81f.js",
+    "runtime-main.js.map": "/painel-cripto-moedas/static/js/runtime-main.aae5c81f.js.map",
+    "static/js/2.c757a8cd.chunk.js": "/painel-cripto-moedas/static/js/2.c757a8cd.chunk.js",
+    "static/js/2.c757a8cd.chunk.js.map": "/painel-cripto-moedas/static/js/2.c757a8cd.chunk.js.map",
+    "index.html": "/painel-cripto-moedas/index.html",
+    "static/css/main.b2d93f13.chunk.css.map": "/painel-cripto-moedas/static/css/main.b2d93f13.chunk.css.map",
+    "static/js/2.c757a8cd.chunk.js.LICENSE.txt": "/painel-cripto-moedas/static/js/2.c757a8cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aae5c81f.js",
+    "static/js/2.c757a8cd.chunk.js",
+    "static/css/main.b2d93f13.chunk.css",
+    "static/js/main.64d94720.chunk.js"
+  ]
+}
