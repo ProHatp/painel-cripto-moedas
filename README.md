@@ -1,6 +1,6 @@
 
 
-# Bem vindo ao CriptoMoedas
+# Painel Criptomoedas
 
 Olá esse e mais um projeto feito por mim para **ESTUDO**. Estudando  react  tive a idéia de fazer um painel de criptomoedas usando a API do CAINCAP, e fazer uma conversão de valor usando a API DE COTAÇÃO DE MOEDAS fazendo com que os valores sejam de duas formas USD e BRL.
 
