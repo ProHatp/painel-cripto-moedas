@@ -1,8 +1,8 @@
 
 
-# Bem vindo ao Pokedex
+# Bem vindo ao CriptoMoedas
 
-Olá esse e mais um projeto feito por mim para **ESTUDO**. Estundado  react  tive a idéia de fazer um painel de criptomoedas usando a API do CAINCAP, e fazer uma conversão de valor usando a API DE COTAÇÃO DE MOEDAS fazendo com que os valores sejam de duas formas USD e BRL.
+Olá esse e mais um projeto feito por mim para **ESTUDO**. Estudando  react  tive a idéia de fazer um painel de criptomoedas usando a API do CAINCAP, e fazer uma conversão de valor usando a API DE COTAÇÃO DE MOEDAS fazendo com que os valores sejam de duas formas USD e BRL.
 
 [COINCAP](https://coincap.io/)
 [API de Cotações de Moedas](https://docs.awesomeapi.com.br/api-de-moedas)
